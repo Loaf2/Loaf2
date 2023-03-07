@@ -4,8 +4,6 @@ I make cool websites with cool tools
 
 ### Here are some tools i use
 
-<hr></hr>
-
 ![image](https://user-images.githubusercontent.com/102983970/223444248-833e5ff3-cfbe-46b6-853b-a950a433ac9a.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/102983970/223444542-1af945c7-c34a-46e2-9d96-30ab91670dae.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/102983970/223444659-5d1d984f-8f91-421b-9f7c-fb50c6e24eeb.png)

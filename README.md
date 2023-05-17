@@ -6,6 +6,8 @@ I make cool websites with cool tools
 
 ![image](https://user-images.githubusercontent.com/102983970/223444248-833e5ff3-cfbe-46b6-853b-a950a433ac9a.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/102983970/223444542-1af945c7-c34a-46e2-9d96-30ab91670dae.png)
+![icons8-tailwindcss-48](https://github.com/Loaf2/Loaf2/assets/102983970/48bff517-f98d-472b-ba35-33f74748ff62)
+
 ![icons8-javascript-48](https://user-images.githubusercontent.com/102983970/223444659-5d1d984f-8f91-421b-9f7c-fb50c6e24eeb.png)
 ![icons8-node-js-48](https://user-images.githubusercontent.com/102983970/223445861-b5099fdc-34f4-4c2f-95fe-954959037ed7.png)
 ![icons8-react-48](https://user-images.githubusercontent.com/102983970/223444808-6c98e386-d625-49c1-961a-857df9d7f910.png)

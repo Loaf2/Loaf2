@@ -14,4 +14,4 @@ I make cool websites with cool tools
 <img src="https://github.com/Loaf2/Loaf2/assets/102983970/f7a53990-aa5b-477a-8d5c-9f6f9b3fb2d2" width="40" height="40">
 ![icons8-postgresql-48](https://github.com/Loaf2/Loaf2/assets/102983970/15b46270-b288-403b-8bac-4f83755b5b52)
 ![icons8-github-48(1)](https://user-images.githubusercontent.com/102983970/223445723-e5af152c-8906-4446-9c27-f74729695da8.png)
-
+C, C++, RUST, JAVA, BEVY, OPENGL, GLM, GLAD, STB, KHR, GLFW
